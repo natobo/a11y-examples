@@ -18,3 +18,8 @@ form {
   text-align: center;
   cursor: pointer;
 }
+
+.button:focus-visible {
+  border-width: thick;
+  border-color: #fff;
+}
